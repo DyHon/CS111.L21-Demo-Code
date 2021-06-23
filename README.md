@@ -13,8 +13,8 @@
 
 ## Thành viên nhóm:
 
-| STT | Họ tên              | MSSV     | Github                                              | Facebook                                                |
-| :-: | ------------------- | -------- | --------------------------------------------------- | ------------------------------------------------------- |
-|  1  | Nguyễn Văn Kiệt     | 15520401 | [kiet0807](https://github.com/kiet0807)             | https://www.facebook.com/profile.php?id=100004221012815 |
-|  2  | Phan Lê Xuân Trường | 19522444 | [XuanTruong2408](https://github.com/XuanTruong2408) | https://www.facebook.com/ConCaCon2408                   |
+| STT | Họ tên              | MSSV     | Facebook                                                |
+| :-: | ------------------- | -------- | ------------------------------------------------------- |
+|  1  | Bùi Khánh Duy       | 19521418 | https://www.facebook.com/profile.php?id=100004221012815 |
+|  2  | Phan Lê Xuân Trường | 19522444 | https://www.facebook.com/ConCaCon2408                   |
 
